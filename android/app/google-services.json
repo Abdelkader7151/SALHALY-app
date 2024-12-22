@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089779180133",
+    "project_id": "salhaly-77ba7",
+    "storage_bucket": "salhaly-77ba7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089779180133:android:63b03821a2fec66ab25c8c",
+        "android_client_info": {
+          "package_name": "com.example.my_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCScaNdrx7cuE51aAE1lr6C5llgru-3Fm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
